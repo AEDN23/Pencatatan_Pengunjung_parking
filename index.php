@@ -8,7 +8,7 @@ require_once("dashboard/backend/config.php");
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Form Pengunjung - PT. Elastomix Indonesia</title>
+  <title>Form Pengunjung - PT. Elastomix Indonesia percobaan</title>
   <link href="../css/bootstrap.min.css" rel="stylesheet" />
   <link href="../assets/img/images.jpg" rel="icon">
   <link href="../css/bootstrap@5.3.3.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
